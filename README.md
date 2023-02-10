@@ -1,6 +1,6 @@
 <img src='https://github.com/stephancj/stephancj/blob/main/images/banner.jpeg'> 
 
-Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, you can call me [Stéphan !](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+Hey, you can call me [Stéphan](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my small home in the Digital Domain..</h1>
 
@@ -80,3 +80,7 @@ Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 * If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Stéphan's github stats](https://github-readme-stats.vercel.app/api?username=stephancj&show_icons=true&hide=[%22issues%22])
+
+<div style="text-align: right">PS: Why did the programmer quit his job?</div>
+<div style="text-align: right">=> He didn't get arrays 😬.</div>
+
