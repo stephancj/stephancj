@@ -1,6 +1,6 @@
 <img src='https://github.com/stephancj/stephancj/blob/main/images/banner.jpeg'> 
 
-Hey, you can call me [Stéphan](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my small home in the Digital Domain..</h1>
 
@@ -24,19 +24,19 @@ Hey, you can call me [Stéphan](https://www.youtube.com/channel/UCietjxpksncMdOU
 
 ## Programming Languages
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original  .svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+<img src = 'https://stephancj.github.io/assets/images/skills/html5.png' width='40'/> <img src = 'https://stephancj.github.io/assets/images/skills/css3.png' width='40'/> <img src = 'https://stephancj.github.io/assets/images/skills/javascript.png' width='40'/> <img src='https://stephancj.github.io/assets/images/skills/typescript.png' width='40'> <img src = 'https://stephancj.github.io/assets/images/skills/dart.png' width='35' height='40'/>
 
-## Technologies I Use
+## Technologies & Tools I Use
 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+<img src = 'https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png' height='40'/> <img src = 'https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png' width='40'> <img src = 'https://stephancj.github.io/assets/images/skills/angular.png' width='40'/> <img src = 'https://stephancj.github.io/assets/images/skills/bootstrap.png' width='40'/>   <img src = 'https://stephancj.github.io/assets/images/skills/flutter.png' width='40'/> <img src = 'https://stephancj.github.io/assets/images/skills/git.png' width='40'/> <img src = 'https://stephancj.github.io/assets/images/skills/firebase.png' width='40'/> <img src = 'https://stephancj.github.io/assets/images/skills/ionic.png' width='40'/> <img src = 'https://stephancj.github.io/assets/images/skills/gitlab.png' width='40'/> <img src = 'https://stephancj.github.io/assets/images/skills/vs-code.png' width='40'/> <img src='https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png?20210309160611' width='40'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png' width='40'> <img src='https://seeklogo.com/images/F/fastlane-logo-6CA0B0B428-seeklogo.com.png' width='40'>
 
 ## Who am I?
 
  ```dart
  class WhoAmI {
 
-  String name = 'Stéphan Josué Christian';
+  String name = 'Stéphan Christian';
+  
   Map<String, String> currentWork = {
     'function' : 'Mobile Application Developer',
     'company' : 'Bocasay Madagascar'
@@ -72,15 +72,15 @@ Hey, you can call me [Stéphan](https://www.youtube.com/channel/UCietjxpksncMdOU
 ## Current Works
 
 * I'm currently working on 🔭 building and deploying **Mobile Apps using Flutter** and working up on polishing my skills in Flutter and mobile application in general 🌱.
-* Getting Started with Swift and Kotlin.
+* Getting Started with Flutter Test Driven Development.
 
 ## Other Stuff
 
-* [My Resume](https://stephancj.github.io/assets/CV_Stephan.pdf)
+* Do you want to look at my resume ? [Click Here](https://stephancj.github.io/assets/CV_Stephan.pdf)
 * If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Stéphan's github stats](https://github-readme-stats.vercel.app/api?username=stephancj&show_icons=true&hide=[%22issues%22])
 
-<div style="text-align: right">PS: Why did the programmer quit his job?</div>
-<div style="text-align: right">=> He didn't get arrays 😬.</div>
+<div style="text-align: right">A little joke: Why did the programmer quit his job?</div>
+<div style="text-align: right">👉 He didn't get arrays 😂.</div>
 
