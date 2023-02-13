@@ -73,6 +73,7 @@ Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https:/
 
 * I'm currently working on 🔭 building and deploying **Mobile Apps using Flutter** and working up on polishing my skills in Flutter and mobile application in general 🌱.
 * Getting Started with Flutter Test Driven Development.
+* Started learning IOS Application Development with Swift language.
 
 ## Other Stuff
 
@@ -80,7 +81,4 @@ Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https:/
 * If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Stéphan's github stats](https://github-readme-stats.vercel.app/api?username=stephancj&show_icons=true&hide=[%22issues%22])
-
-<div style="text-align: right">A little joke: Why did the programmer quit his job?</div>
-<div style="text-align: right">👉 He didn't get arrays 😂.</div>
 
