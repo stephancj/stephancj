@@ -14,11 +14,10 @@ Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https:/
 
 ## :computer: Technologies I Love
 
-* Flutter
+* Mobile Development
 * Internet Of Things (IOT)
 * Video Game Development
 * Frontend Development
-* Mobile Development
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stephancj&layout=compact"> -->
 
@@ -71,8 +70,8 @@ Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https:/
 
 ## Current Works
 
-* I'm currently working on 🔭 building and deploying **Mobile Apps using Flutter** and working up on polishing my skills in Flutter and mobile application in general 🌱.
-* Getting Started with Flutter Test Driven Development.
+* I'm currently working on building and deploying **Mobile Apps using Flutter** and working up on polishing my skills in Flutter and mobile application in general 🌱.
+* Getting Started learning Native Android Development with Kotlin.
 * Started learning IOS Application Development with Swift language.
 
 ## Other Stuff
