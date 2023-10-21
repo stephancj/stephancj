@@ -71,6 +71,7 @@ Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https:/
 ## Current Works
 
 * I'm currently working on building and deploying **Mobile Apps using Flutter** and working up on polishing my skills in Flutter and mobile application in general 🌱.
+* I'm also a co-founder and a trainer at Digital Training Center, which is a formation center for young and passionate devevelopers that help them increase their skills and discover new technologies.
 * Getting Started learning Native Android Development with Kotlin and Jetpack Compose.
 * Started learning IOS Application Development with Swift language.
 
