@@ -63,8 +63,6 @@ Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https:/
         'Create very useful apps for my country'
     ];
   }
-
-  # Assume 10 more awesome ambitions here  ;)
  
  ```
 
