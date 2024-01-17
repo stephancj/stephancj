@@ -34,14 +34,14 @@ Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https:/
  ```dart
  class WhoAmI {
 
-  String name = 'Stéphan Christian';
+  String name() => 'Stéphan Christian';
   
-  Map<String, String> currentWork = {
-    'function' : 'Mobile Application Developer',
-    'company' : 'Bocasay Madagascar'
+  Map<String, String> currentWork() => {
+    'function' : 'New Tech Consultant',
+    'company' : 'Versusmind'
   };
 
-  List<String> hobbies = [
+  List<String> hobbies() => [
     'Drawing',
     'Watching Anime',
     'Playing Video Games',
@@ -51,17 +51,13 @@ Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https:/
     'Being up all Night chasing that ONE BUG...'
   ];
 
-  String getCity() {
-    return 'Antananarivo, Madagascar';
-  }
+  String city() => 'Antananarivo, Madagascar';
 
-  List<String> getAmbitions() {
-    return [
+  List<String> Ambitions() => [
         'Become a successful entrepreneur',
         'Make a popular video game',
         'Create very useful apps to improve Malagasy daily life'
     ];
-  }
  
  ```
 
