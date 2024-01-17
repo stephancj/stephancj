@@ -57,10 +57,9 @@ Hey, you can call me [Stéphan](https://stephancj.github.io) ! <img src="https:/
 
   List<String> getAmbitions() {
     return [
-        'Get Rich xD'
-        'Become entrepreneur',
+        'Become a successful entrepreneur',
         'Make a popular video game',
-        'Create very useful apps for my country'
+        'Create very useful apps to improve Malagasy daily life'
     ];
   }
  
